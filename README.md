@@ -1,4 +1,4 @@
-# easy-peasy-bot
+# Indiegogo Coding Class Bot
 
 ## The story of a (Slack)bot
 
